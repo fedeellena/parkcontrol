@@ -1,0 +1,22 @@
+{
+  "name": "parkcontrol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fedeellena/parkcontrol.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fedeellena/parkcontrol/issues"
+  },
+  "homepage": "https://github.com/fedeellena/parkcontrol#readme",
+  "dependencies": {
+    "live-server": "^1.2.0"
+  }
+}
